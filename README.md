@@ -1,3 +1,1 @@
-# Syst-me-de-reservation
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Zizouk22/Syst-me-de-reservation)
+Développez une application permettant aux utilisateurs de réserver des rendez-vous en ligne avec différents prestataires de services. Elle pourrait inclure des fonctionnalités telles que la disponibilité en temps réel, la gestion des créneaux horaires, les rappels de rendez-vous et la gestion des profils des prestataires de services.
